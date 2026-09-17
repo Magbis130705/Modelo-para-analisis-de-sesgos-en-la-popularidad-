@@ -52,10 +52,10 @@ Liu, Y., Ott, M., Goyal, N., et al. (2019). *RoBERTa: A Robustly Optimized BERT 
 
 ## Autor
 
-Magbis Mizraim Santiago López
+Magbis Mizraim Santiago López, Martha Patricia Soriano Mosqueira
 
 Universidad Politécnica de Altamira
 
 Programa Delfín 2026
 
-Universidad Tecnológica de Bolívar
+Universidad Tecnológica de Bolívar, Cartagena Colombia
