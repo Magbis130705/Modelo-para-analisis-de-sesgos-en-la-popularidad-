@@ -1,6 +1,3 @@
-<img width="694" height="490" alt="popularidad" src="https://github.com/user-attachments/assets/0c368070-ae83-4a01-8af2-8bd1db7c6eb5" />
-<img width="694" height="244" alt="pipeline_page-0001" src="https://github.com/user-attachments/assets/f19cc068-f3dc-4b5f-aacc-c1833b659ec4" />
-
 # Análisis del sesgo de popularidad en reseñas turísticas mediante RoBERTa
 
 ## Descripción
@@ -54,6 +51,7 @@ Liu, Y., Ott, M., Goyal, N., et al. (2019). *RoBERTa: A Robustly Optimized BERT 
 3. Ejecutar el código principal.
 
 #Imagenes
+
 <img width="694" height="490" alt="popularidad" src="https://github.com/user-attachments/assets/0c368070-ae83-4a01-8af2-8bd1db7c6eb5" />
 <img width="694" height="244" alt="pipeline_page-0001" src="https://github.com/user-attachments/assets/f19cc068-f3dc-4b5f-aacc-c1833b659ec4" />
 
