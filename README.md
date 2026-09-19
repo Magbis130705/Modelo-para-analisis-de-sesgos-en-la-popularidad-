@@ -1,5 +1,6 @@
-<img width="790" height="490" alt="popularidad" src="https://github.com/user-attachments/assets/0c368070-ae83-4a01-8af2-8bd1db7c6eb5" />
-[pipeline.pdf](https://github.com/user-attachments/files/32407380/pipeline.pdf)
+<img width="300" height="490" alt="popularidad" src="https://github.com/user-attachments/assets/0c368070-ae83-4a01-8af2-8bd1db7c6eb5" />
+<img width="694" height="244" alt="pipeline_page-0001" src="https://github.com/user-attachments/assets/f19cc068-f3dc-4b5f-aacc-c1833b659ec4" />
+
 # Análisis del sesgo de popularidad en reseñas turísticas mediante RoBERTa
 
 ## Descripción
